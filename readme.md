@@ -1,6 +1,6 @@
 #效果图
 
-![这里写图片名称](http://i8.tietuku.com/b109d8e7fdac0f1d.gif)
+![效果图](http://i8.tietuku.com/b109d8e7fdac0f1d.gif)
 
 
 ---
